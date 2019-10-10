@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "592165344038",
+    "firebase_url": "https://quickstart-android-372e6.firebaseio.com",
+    "project_id": "quickstart-android-372e6",
+    "storage_bucket": "quickstart-android-372e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:592165344038:android:7497dd864e77fc400527e7",
+        "android_client_info": {
+          "package_name": "quickstart.fcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "592165344038-u4nfeqmhr50aht8gi6bv3bc66280e111.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "quickstart.fcm",
+            "certificate_hash": "778df4e39256de3debeae5442ee513198a254474"
+          }
+        },
+        {
+          "client_id": "592165344038-ona5bflp55sj2v5mnna062cjc9jse7vj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMfGZK1ogSKI9X92zDRTaSOTA8AFWLtT0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "592165344038-ona5bflp55sj2v5mnna062cjc9jse7vj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.google.firebase.quickstart.fcm.java;
+package quickstart.fcm.java;
 
 import android.app.NotificationChannel;
 import android.app.NotificationManager;
@@ -29,7 +29,7 @@ import android.util.Log;
 
 import com.google.firebase.messaging.FirebaseMessagingService;
 import com.google.firebase.messaging.RemoteMessage;
-import com.google.firebase.quickstart.fcm.R;
+import quickstart.fcm.R;
 
 import androidx.work.OneTimeWorkRequest;
 import androidx.work.WorkManager;

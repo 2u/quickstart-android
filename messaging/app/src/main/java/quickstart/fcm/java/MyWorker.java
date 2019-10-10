@@ -1,4 +1,4 @@
-package com.google.firebase.quickstart.fcm.java;
+package quickstart.fcm.java;
 
 import android.content.Context;
 import androidx.annotation.NonNull;
